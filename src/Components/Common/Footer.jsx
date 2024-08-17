@@ -4,11 +4,11 @@ export default function Footer() {
     <footer className="font-sans tracking-wide bg-black px-8 py-12">
     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-x-6 gap-y-10">
       <div className=' '>
-        <a href='javascript:void(0)'><div className='w-full  flex justify-center'><img  src={logo} alt="logo" className='w-44' /></div></a>
+        <a ><div className='w-full  flex justify-center'><img  src={logo} alt="logo" className='w-44' /></div></a>
 
         <ul className="mt-10 flex space-x-5 justify-center">
           <li>
-            <a href='javascript:void(0)'>
+            <a >
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" className="fill-gray-300 hover:fill-white w-7 h-7"
                 viewBox="0 0 24 24">
                 <path fillRule="evenodd"
@@ -18,7 +18,7 @@ export default function Footer() {
             </a>
           </li>
           <li>
-            <a href='javascript:void(0)'>
+            <a >
               <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                 className="fill-gray-300 hover:fill-white w-7 h-7" viewBox="0 0 24 24">
                 <path fillRule="evenodd"
@@ -28,7 +28,7 @@ export default function Footer() {
             </a>
           </li>
           <li>
-            <a href='javascript:void(0)'>
+            <a >
               <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                 className="fill-gray-300 hover:fill-white w-7 h-7" viewBox="0 0 24 24">
                 <path
@@ -37,7 +37,7 @@ export default function Footer() {
             </a>
           </li>
           <li>
-            <a href='javascript:void(0)'>
+            <a >
               <svg xmlns="http://www.w3.org/2000/svg" fill="none"
                 className="fill-gray-300 hover:fill-white w-7 h-7" viewBox="0 0 24 24">
                 <path
@@ -60,19 +60,19 @@ export default function Footer() {
 
         <ul className="mt-6 space-y-5">
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Web Development</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Web Development</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Pricing</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Pricing</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Support</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Support</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Client Portal</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Client Portal</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Resources</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Resources</a>
           </li>
         </ul>
       </div>
@@ -88,16 +88,16 @@ export default function Footer() {
         </h4>
         <ul className="space-y-5 mt-6 max-sm:hidden">
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Hubspot</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Hubspot</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Integration Services</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Integration Services</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Marketing Glossar</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Marketing Glossar</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>UIPath</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>UIPath</a>
           </li>
         </ul>
       </div>
@@ -114,19 +114,19 @@ export default function Footer() {
 
         <ul className="space-y-5 mt-6 max-sm:hidden">
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>About us</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>About us</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Careers</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Careers</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Blog</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Blog</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Portfolio</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Portfolio</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Events</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Events</a>
           </li>
         </ul>
       </div>
@@ -143,19 +143,19 @@ export default function Footer() {
 
         <ul className="space-y-5 mt-6 max-sm:hidden">
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>FAQ</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>FAQ</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Partners</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Partners</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Sitemap</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Sitemap</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Contact</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>Contact</a>
           </li>
           <li>
-            <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>News</a>
+            <a  className='hover:text-white text-gray-300 text-sm'>News</a>
           </li>
         </ul>
       </div>
@@ -166,13 +166,13 @@ export default function Footer() {
     <div className="flex flex-wrap max-md:flex-col gap-4">
       <ul className="md:flex md:space-x-6 max-md:space-y-2">
         <li>
-          <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Terms of Service</a>
+          <a  className='hover:text-white text-gray-300 text-sm'>Terms of Service</a>
         </li>
         <li>
-          <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Privacy Policy</a>
+          <a  className='hover:text-white text-gray-300 text-sm'>Privacy Policy</a>
         </li>
         <li>
-          <a href='javascript:void(0)' className='hover:text-white text-gray-300 text-sm'>Security</a>
+          <a  className='hover:text-white text-gray-300 text-sm'>Security</a>
         </li>
       </ul>
 
